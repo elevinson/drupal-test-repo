@@ -1,7 +1,0 @@
-name = Drupal Test
-description = Awesome drupal test module with views and panels dependencies!
-core = 7.x
-package = Drupal Test
-dependencies[] = views:views
-dependencies[] = panels:panels
-dependencies[] = features:features
